@@ -25,3 +25,5 @@ Simple misc driver with read, write, fifo, tasklet and IRQ:
 **[misc_loop_drv.c](https://github.com/makelinux/ldt/blob/master/misc_loop_drv.c)**
 
 Browse the rest of source: https://github.com/makelinux/ldt/
+
+Bang,Jone!
